@@ -14,3 +14,4 @@ OrderID,Date,ProductName,Category,Sales,Quantity,Region
 13,2025-01-30,Electric Kettle,Home,4000,2,North
 14,2025-01-31,Desk Lamp,Home,2500,3,South
 15,2025-02-01,iPhone 15,Electronics,150000,1,East
+16,2025-02-01,MacBook Pro,Electronics,500000,1,North
