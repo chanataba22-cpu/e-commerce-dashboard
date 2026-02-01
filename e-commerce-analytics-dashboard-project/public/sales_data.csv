@@ -1,0 +1,16 @@
+OrderID,Date,ProductName,Category,Sales,Quantity,Region
+1,2025-01-01,iPhone 15,Electronics,150000,1,North
+2,2025-01-02,Samsung S23,Electronics,120000,1,South
+3,2025-01-05,Dell XPS 13,Electronics,180000,1,East
+4,2025-01-10,Nike Air Max,Fashion,15000,2,West
+5,2025-01-12,Adidas Ultraboost,Fashion,12000,1,North
+6,2025-01-15,Coffee Maker,Home,8000,1,South
+7,2025-01-18,AirPods Pro,Electronics,25000,2,East
+8,2025-01-20,Gaming Chair,Furniture,35000,1,West
+9,2025-01-22,Mechanical Keyboard,Electronics,12000,3,North
+10,2025-01-25,Smart Watch,Electronics,20000,2,South
+11,2025-01-26,Sony Headphones,Electronics,45000,1,East
+12,2025-01-28,Yoga Mat,Fitness,3000,5,West
+13,2025-01-30,Electric Kettle,Home,4000,2,North
+14,2025-01-31,Desk Lamp,Home,2500,3,South
+15,2025-02-01,iPhone 15,Electronics,150000,1,East
